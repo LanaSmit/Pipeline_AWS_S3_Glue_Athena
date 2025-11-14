@@ -48,10 +48,11 @@ pip install -r requirements.txt
 ## 4. Set Your Environment Variables
 
 Create a .env file in the project root with:
-
+```bash
 SPOTIPY_CLIENT_ID=your_client_id
 SPOTIPY_CLIENT_SECRET=your_client_secret
 S3_BUCKET_NAME=your_bucket_name
+```
 
 ## 5. Run the ETL Script
 
